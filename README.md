@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm really glad you found me.
+
+- 🌱 I’m currently learning Cloud, C# and Python
+- 💬 Ask me about RFEM, Grasshopper, Koala
