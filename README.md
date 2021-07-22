@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm really glad you found me.
 
-Agile and Lean enthusiast | Technology evangelist| Innovation pioneer | Product Owner & Solution Architect @Dlubal-Software 
+Agile and Lean enthusiast | Technology evangelist| Innovation pioneer | Product Owner @Dlubal-Software 
 
 - 🌱 I’m currently learning Cloud, C# and Python
 - 💬 Ask me about RFEM, Grasshopper, Koala
