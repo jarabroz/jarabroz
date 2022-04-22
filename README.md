@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm really glad you found me.
 
-Agile and Lean enthusiast | Technology evangelist| Innovation pioneer | Scrum Master @Dlubal-Software 
+Agile and Lean enthusiast | Technology evangelist| Innovation pioneer | Scrum Master [@Dlubal-Software](https://github.com/Dlubal-Software)
 
-- 🌱 I’m currently learning Cloud, C# and Python
+- 🌱 I’m currently learning Cloud, C#, Python and JavaScript
 - 💬 Ask me about RFEM, Grasshopper, Koala
