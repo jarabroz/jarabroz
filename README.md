@@ -21,3 +21,9 @@ Agile and Lean enthusiast | Technology evangelist| Innovation pioneer | Scrum Ma
 
 - 🌱 I’m currently learning Cloud, C#, Python and JavaScript
 - 💬 Ask me about RFEM, Grasshopper
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/jara_broz?style=social)](https://twitter.com/jara_broz)
+
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jara.broz/)
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaroslav-broz/)
