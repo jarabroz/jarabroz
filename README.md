@@ -27,3 +27,7 @@ Agile and Lean enthusiast | Technology evangelist| Innovation pioneer | Scrum Ma
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jara.broz/)
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaroslav-broz/)
+
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/users/jaroslavbroz-0235/achievements)
+
+[![image](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jara.broz)
