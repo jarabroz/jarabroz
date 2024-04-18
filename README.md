@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![autocomplete](https://codeium.com/badges/user/jaroslav_broz/autocomplete)](https://codeium.com/profile/jaroslav_broz)
+[![streak](https://codeium.com/badges/v2/user/jaroslav_broz/streak)](https://codeium.com/profile/jaroslav_broz)
+
 
 <!--
 **jarabroz/jarabroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
