@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 I'm really glad you found me.
 
-Agile and Lean enthusiast | Technology evangelist| Innovation pioneer | Head ofnTechnology [@Dlubal-Software](https://github.com/Dlubal-Software)
+Agile and Lean enthusiast | Technology evangelist| Innovation pioneer | Head of Technology [@Dlubal-Software](https://github.com/Dlubal-Software)
 
-- 🌱 I’m currently learning Cloud, C#, Python and JavaScript
+- 🌱 I’m currently learning Cloud, Python and TypeScript, Vue.js
 - 💬 Ask me about RFEM, Grasshopper
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jara_broz?style=social)](https://twitter.com/jara_broz)
